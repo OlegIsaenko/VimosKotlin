@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vimos</string>
+    <string name="product_currency">руб.</string>
+    <string name="product_gcode">Артикул:</string>
+    <string name="product_name">Наименование товара</string>
+    <string name="product_price">Стоимость</string>
+    <string name="price_formatted">%d руб.</string>
+    <string name="get_product_list">Список товаров</string>
+</resources>

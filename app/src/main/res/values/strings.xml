@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vimos</string>
+    <string name="get_product_list">Get product list</string>
+
+    <string name="price_formatted">%d rub.</string>
+    <string name="product_name">Product name</string>
+    <string name="product_price">Price</string>
+    <string name="product_gcode">gcode</string>
+    <string name="product_currency">rub.</string>
+</resources>
